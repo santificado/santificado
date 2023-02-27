@@ -14,5 +14,5 @@
 <div>
   <a href="https://github.com/santificado">
   <img widht = 42% src="link"
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) >
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santificado&show_icons=true&thenme=dracula&include_all_commits=true >
 <div>
