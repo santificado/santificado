@@ -14,7 +14,7 @@
 <br>
 <div>
   <a href="https://github.com/santificado">
-  <img height = 180em src="https://github-readme-stats.vercel.app/api?username=santificado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height = 180em src="https://github-readme-stats.vercel.app/api?username=santificado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" styl="background-color:transparent">
     
   <br> 
     
