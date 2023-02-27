@@ -10,4 +10,7 @@
 -Discord : santificado#8321
 
 -Instagram: @andresanti_
+
+<div>
 https://github-readme-stats.vercel.app/api?username=santificado
+<div>
