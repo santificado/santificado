@@ -14,6 +14,9 @@
 <br>
 <div>
   <a href="https://github.com/santificado">
-  <img height = 42% src="https://github-readme-stats.vercel.app/api?username=santificado&show_icons=true&thenme=tokyonight&include_all_commits=true&count_private=true">
-  <img height = 42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=santificado&hide_progress=true" >
+  <img height = 180em src="https://github-readme-stats.vercel.app/api?username=santificado&show_icons=true&thenme=tokyonight&include_all_commits=true&count_private=true">
+    
+  <br> 
+    
+  <img height = 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=santificado&hide_progress=true" >
 <div>
