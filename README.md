@@ -7,7 +7,6 @@
 
 -Email: andrelucas.12323@gmail.com
 
--Discord : santificado#8321
 
 -Instagram: @andresanti_
 
