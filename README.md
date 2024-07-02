@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André 👋
 
-- 👀 Estou interessado em análise de sistemas.
-- 🌱 Atualmente, estou estudando na FIAP.
+
+- 🌱 Atualmente, estou formado na FIAP.
 - 📫 Como me contatar:
 
   - Email: andrelucas.12323@gmail.com
